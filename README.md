@@ -1,3 +1,3 @@
 # Personal-Portfolio
-My Personal Portfolio
-First small FrontEnd Project
+# My Personal Portfolio
+# First small FrontEnd Project
